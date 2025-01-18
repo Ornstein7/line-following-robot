@@ -1,5 +1,5 @@
 //  Copyright (c) 2022 YCH, ATE, AJE, MHE
-//  Developed as part of the line-following robot project at IUT de Cachan.
+//  Developed as part of the line-following robot project.
 
 #include "IHM.h"
 #include "NBoard.h"
